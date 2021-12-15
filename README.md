@@ -9,3 +9,4 @@ Agregamos esta línea desde el navegador web para comprobar git pull
 
 Prueba con maquina 2
 
+Probando Pull en maquina dos
